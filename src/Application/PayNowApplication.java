@@ -2,9 +2,30 @@ package Application;
 
 public class PayNowApplication {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public static void main(String[] args) 
+	{
+		
 	}
+	
+	void Input() 
+	{
+		System.out.println("This is a login method");
+		System.out.println("Version 1");
+		System.out.println("Developer branch");
+	}
+	
+	void withdrawMoney()
+	{
+		System.out.println("testing withdraw");
+	}
+	void depositmoney()
+	{
+		System.out.println("testing withdraw");
+	}
+	void featurelogout()
+	{
+		System.out.println("testing withdraw");
+	}
+
 
 }
