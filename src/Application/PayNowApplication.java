@@ -22,6 +22,11 @@ public class PayNowApplication {
 	{
 		System.out.println("testing withdraw");
 	}
+	
+	void checkBalance()
+	{
+		System.out.println("check balance");
+	}
 
 
 }
