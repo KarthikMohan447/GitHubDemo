@@ -22,6 +22,10 @@ public class PayNowApplication {
 	{
 		System.out.println("testing withdraw");
 	}
+	void featurelogout()
+	{
+		System.out.println("testing withdraw");
+	}
 
 
 }
