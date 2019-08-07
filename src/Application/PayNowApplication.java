@@ -18,5 +18,10 @@ public class PayNowApplication {
 	{
 		System.out.println("testing withdraw");
 	}
+	void depositmoney()
+	{
+		System.out.println("testing withdraw");
+	}
+
 
 }
