@@ -9,6 +9,7 @@ public class PayNowApplication {
 	void Input() {
 		System.out.println("This is a login method");
 		System.out.println("Version 1");
+		System.out.println("Developer branch");
 	}
 
 }
